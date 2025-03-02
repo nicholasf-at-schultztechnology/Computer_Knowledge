@@ -7,3 +7,7 @@
 # Window Switcher
 - Alt+`(Backtick): switch between windows of the same app.
 - https://github.com/sigoden/window-switcher/releases
+
+# ScanSnap
+- S1500M Compatible software
+- https://archive.org/details/win-manager-v-72-l-50-ww
